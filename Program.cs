@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CnLINQ_SetOperations
+namespace Cn_LINQ_SetOperations
 {
 	class Program
 	{
